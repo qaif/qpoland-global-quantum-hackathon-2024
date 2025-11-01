@@ -1,0 +1,42 @@
+[submodule "Harmonic-Oscillator"]
+	path = Harmonic-Oscillator
+	url = https://github.com/james05-cpu/Harmonic-Oscillator
+[submodule "Quantum_Dots_and_Boxes"]
+	path = Quantum_Dots_and_Boxes
+	url = https://github.com/Leonardo-F/Quantum_Dots_and_Boxes
+[submodule "QubitMachine"]
+	path = QubitMachine
+	url = https://github.com/DennisWayo/QubitMachine
+[submodule "Qrypto-Escape"]
+	path = Qrypto-Escape
+	url = https://github.com/antoniag5/Qrypto-Escape
+[submodule "Qpoland-2024-classiq-challenge"]
+	path = Qpoland-2024-classiq-challenge
+	url = https://github.com/Qyngshuk08/Qpoland-2024-classiq-challenge
+[submodule "QPoland-Quantum-Global-Hackathon-2024"]
+	path = QPoland-Quantum-Global-Hackathon-2024
+	url = https://github.com/krzysiu5/QPoland-Quantum-Global-Hackathon-2024
+[submodule "QVTM"]
+	path = QVTM
+	url = https://github.com/Sabarikirishwaran/QVTM
+[submodule "QPoland2024"]
+	path = QPoland2024
+	url = https://github.com/SoardRaspi/QPoland2024
+[submodule "QPOLAN_Hackathon"]
+	path = QPOLAN_Hackathon
+	url = https://github.com/tufailhamza/QPOLAN_Hackathon
+[submodule "Harmonic_oscillator"]
+	path = Harmonic_oscillator
+	url = https://github.com/Hashhhhhhhh/Harmonic_oscillator
+[submodule "interference-quest"]
+	path = interference-quest
+	url = https://github.com/clausia/interference-quest
+[submodule "Duality_QHMO"]
+	path = Duality_QHMO
+	url = https://github.com/NandanPatel24/Duality_QHMO
+[submodule "VQLS-with-LCU"]
+	path = VQLS-with-LCU
+	url = https://github.com/ramesh084/VQLS-with-LCU
+[submodule "QPoland-2024-Quantum-Machine-Learning"]
+	path = QPoland-2024-Quantum-Machine-Learning
+	url = https://github.com/enriquerb32/QPoland-2024-Quantum-Machine-Learning
